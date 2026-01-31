@@ -13,6 +13,8 @@ This project:
 - **New to this project?** Start with [Quick Start Guide](docs/QUICKSTART.md)
 - **Adding training data?** See [Data Setup Guide](docs/DATA_SETUP.md)
 - **Understanding dependencies?** Check [Dependencies Guide](docs/DEPENDENCIES.md)
+- **Testing your model?** Read [Testing Guide](docs/TESTING.md)
+- **Deploying to Hugging Face?** See [Deployment Guide](docs/DEPLOYMENT.md)
 - **Having issues?** Read [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
 
 ## Workflow
